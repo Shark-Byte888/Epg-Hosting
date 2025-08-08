@@ -1,0 +1,30 @@
+epg_xml_content = """<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="ChatGPT-EPG-Generator">
+
+  <!-- CHANNEL INFO -->
+  <channel id="casadelosfamosos.mexico">
+    <display-name>Casa de los famosos México</display-name>
+  </channel>
+
+  <!-- PROGRAM 1 -->
+  <programme start="20250808180000 +0000" stop="20250808190000 +0000" channel="casadelosfamosos.mexico">
+    <title lang="es">Casa de los famosos México - Episodio 25</title>
+    <desc lang="es">Un nuevo día en la casa más polémica de México. Discusiones, estrategias y emociones al límite.</desc>
+    <category lang="es">Reality Show</category>
+  </programme>
+
+  <!-- PROGRAM 2 -->
+  <programme start="20250808190000 +0000" stop="20250808200000 +0000" channel="casadelosfamosos.mexico">
+    <title lang="es">Casa de los famosos México - Debate en vivo</title>
+    <desc lang="es">Los analistas comentan lo sucedido en la casa durante la última semana. Participación del público en vivo.</desc>
+    <category lang="es">Debate</category>
+  </programme>
+
+  <!-- PROGRAM 3 -->
+  <programme start="20250808200000 +0000" stop="20250808210000 +0000" channel="casadelosfamosos.mexico">
+    <title lang="es">Casa de los famosos México - Confesionario</title>
+    <desc lang="es">Los participantes se abren emocionalmente en el confesionario. Secretos y estrategias al descubierto.</desc>
+    <category lang="es">Reality Show</category>
+  </programme>
+
+</tv>
