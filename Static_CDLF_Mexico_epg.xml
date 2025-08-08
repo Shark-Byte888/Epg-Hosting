@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="ChatGPT-Static-EPG">
+
+  <!-- CHANNEL INFO -->
+  <channel id="casadelosfamosos.mexico">
+    <display-name>La Casa de los famosos México 24/7</display-name>
+  </channel>
+
+  <!-- STATIC PROGRAM (Always Active) -->
+  <programme start="20000101000000 +0000" stop="20991231235959 +0000" channel="casadelosfamosos.mexico">
+    <title lang="es">La Casa de los famosos México 24/7</title>
+    <desc lang="es">Reality show permanente. Este título estático está diseñado solo para mostrar el nombre del canal o contenido.</desc>
+    <category lang="es">Título Estático</category>
+  </programme>
+
+</tv>
